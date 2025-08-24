@@ -1,4 +1,4 @@
-# TD Ameritrade Desktop App – thinkorswim Trading Platform for Windows & Mac  
+# TD Ameritrade Desktop App – Download
 
 <div align="center">
 
